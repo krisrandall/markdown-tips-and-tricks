@@ -11,3 +11,8 @@ See also Emoji cheat sheet : https://www.webpagefx.com/tools/emoji-cheat-sheet/
 </details>
   
   
+  :information_source:
+  
+  :warning:
+  
+  
