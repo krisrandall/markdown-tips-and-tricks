@@ -10,9 +10,11 @@ From here : https://gist.github.com/citrusui/07978f14b11adada364ff901e27c7f61 <b
 See also Emoji cheat sheet : https://www.webpagefx.com/tools/emoji-cheat-sheet/
 </details>
   
+<br/>
+<br/>
+ 
+:information_source:
   
-  :information_source:
-  
-  :warning:
+:warning:
   
   
