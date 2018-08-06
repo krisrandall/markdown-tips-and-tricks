@@ -25,7 +25,7 @@ See also Emoji cheat sheet : https://www.webpagefx.com/tools/emoji-cheat-sheet/
 
 **Requires :** [xxx](), [yy](#kubeconfig-file), 
 
-## :white_circle: Pre-Setup Steps 
+## :black_small_square: Pre-Setup Steps 
 
 
 #### KUBECONFIG file
